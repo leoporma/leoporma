@@ -90,6 +90,7 @@ Certificaciones Profesionales
 ✅ IBM Skills Academy: Data Science Practitioners (2023)
 
 📄 Ver Certificado
+https://github.com/leoporma/leoporma/blob/main/certificates/IBM_Data_Science_Practitioners_2023.pdf
 
 
 ✅ IBM Skills Academy: AI Practitioners (2023)
