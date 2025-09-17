@@ -75,11 +75,6 @@ Desarrollé modelos de predicción de abandono de clientes con datos multifuente
 
 ---
 
-### 📊 Estadísticas GitHub
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoporma&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoporma&layout=compact&theme=radical)
 
 ---
 
