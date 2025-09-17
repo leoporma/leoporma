@@ -113,7 +113,6 @@ Títulos Académicos
 🎓 Bachiller en Ingeniería - Universidad Nacional Andrés Bello (2025)
 
 📄 Ver Título
-
 ---
 
 ### 📫 Conectemos
