@@ -116,6 +116,7 @@ link:https://github.com/leoporma/leoporma/blob/main/academic_degrees/Titulo_Lice
 
 📄 Ver Título
 link:https://github.com/leoporma/leoporma/blob/main/academic_degrees/Titulo_Bachiller_Ingenieria.pdf
+
 ---
 
 ### 📫 Conectemos
