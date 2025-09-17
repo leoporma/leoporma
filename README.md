@@ -87,16 +87,17 @@ Desarrollé modelos de predicción de abandono de clientes con datos multifuente
 Certificaciones Profesionales
 
 🔄 Google Cloud Skills Boost Arcade 2025 - En progreso (15+ badges completados)
+
 ✅ IBM Skills Academy: Data Science Practitioners (2023)
 
 📄 Ver Certificado
-https://github.com/leoporma/leoporma/blob/main/certificates/IBM_Data_Science_Practitioners_2023.pdf
+link:https://github.com/leoporma/leoporma/blob/main/certificates/IBM_Data_Science_Practitioners_2023.pdf
 
 
 ✅ IBM Skills Academy: AI Practitioners (2023)
 
 📄 Ver Certificado
-
+link:https://github.com/leoporma/leoporma/blob/main/certificates/IBM_AI_Practitioners_2023.pdf
 
 
 Títulos Académicos
@@ -104,16 +105,17 @@ Títulos Académicos
 🎓 Ingeniero en Computación e Informática - Universidad Nacional Andrés Bello (2025)
 
 📄 Ver Título
-
+link:https://github.com/leoporma/leoporma/blob/main/academic_degrees/Titulo_Ingeniero_Computacion_Informatica.pdf
 
 🎓 Licenciado en Ingeniería - Universidad Nacional Andrés Bello (2025)
 
 📄 Ver Título
-
+link:https://github.com/leoporma/leoporma/blob/main/academic_degrees/Titulo_Licenciado_Ingenieria.pdf
 
 🎓 Bachiller en Ingeniería - Universidad Nacional Andrés Bello (2025)
 
 📄 Ver Título
+link:https://github.com/leoporma/leoporma/blob/main/academic_degrees/Titulo_Bachiller_Ingenieria.pdf
 ---
 
 ### 📫 Conectemos
