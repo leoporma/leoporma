@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Acerca de mí
 
-Soy un **Ingeniero en Computación e Informática** especializado en Big Data y desarrollo de software, con experiencia práctica en la construcción de arquitecturas cloud robustas y pipelines de datos de alto rendimiento. Mi pasión es convertir datos complejos en insights accionables que impulsen la toma de decisiones empresariales.
+**Ingeniero en Computación e Informática** especializado en Big Data y desarrollo de software, con experiencia práctica en la construcción de arquitecturas cloud robustas y pipelines de datos de alto rendimiento. Mi pasión es convertir datos complejos en insights accionables que impulsen la toma de decisiones empresariales.
 
 🎓 **Recién graduado** con distinción de la Universidad Nacional Andrés Bello  
 📍 **Ubicado en** Santiago, Chile  
