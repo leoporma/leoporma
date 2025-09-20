@@ -17,7 +17,7 @@
 
 **Ingeniero en Computación e Informática** especializado en Big Data y desarrollo de software, con experiencia práctica en la construcción de arquitecturas cloud robustas y pipelines de datos de alto rendimiento. Mi pasión es convertir datos complejos en insights accionables que impulsen la toma de decisiones empresariales.
 
-🎓 **Recién graduado** con distinción de la Universidad Nacional Andrés Bello  
+🎓 **Graduado** con distinción de la Universidad Nacional Andrés Bello  
 📍 **Ubicado en** Santiago, Chile  
 💼 **Experiencia** en empresas líderes como Arcoprime y ENTEL  
 🔍 **Buscando** nuevas oportunidades como Desarrollador/Ingeniero de Datos Junior  
@@ -45,10 +45,6 @@
 #### **DevOps & Herramientas**
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
-#### **Business Intelligence**
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Apache Superset](https://img.shields.io/badge/Apache_Superset-40E0D0?style=for-the-badge&logo=apache&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
 
 ---
 
